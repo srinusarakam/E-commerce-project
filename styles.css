@@ -1,0 +1,1365 @@
+body{
+    background-color:#121212;
+    color: #ffffff;
+}
+
+
+.imgg{
+    position: relative;
+    top: -550px;
+    left: 950px;
+    height: 300px;
+    width: 300px;
+    
+
+}
+
+.container{
+    display: flex;
+}
+.tech-shop{
+    margin-top: 8px;
+    position: relative;
+    right: 110px;
+    font-size: 25px;
+}
+.head{
+    position: relative;
+    left: 1130px;
+    padding: 5px;
+    top: 5px;
+    display: flex;
+}
+
+.search{
+    font-size: 20px;
+    margin-top: 12px;
+    margin-right: 40px;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
+.cart{
+    font-size: 20px;
+    margin-right: 40px;
+    margin-top: 10px;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
+.person{
+    font-size: 20px;
+    margin-top: 10px;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
+.drop-down{
+    position: absolute;
+    top: 50px;
+    left: -150px;
+    border: 2px solid;
+    border-radius: 2px;
+    padding: 15px;
+    width: 300px;
+    margin: 0;
+    z-index: 100;
+    
+}
+.log-sign{
+    font-size: 15px;
+    font-weight: 400;
+    color: gray;
+    border:2px solid;
+    width: 125px;
+    border-radius: 2px;
+    margin-top: -20px;
+}
+.account{
+    font-size: 15px;
+    font-weight: 500;
+    color: gray;
+    margin-top: -20px;
+    position: relative;
+    left: -10px;
+}
+.please{
+    background-color: red;
+    color: gray;
+    font-weight: 500;
+    padding: 2px;
+    width: 115px;
+    border-radius: 3px;
+    margin-top: -10px;
+}
+.drop-down a{
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+}
+.nav:hover .drop-down{
+    display:block;
+}
+.span{
+    font-size: 300px;
+    filter: brightness(0.2);
+}
+.tagline{
+    position: relative;
+    top: -250px;
+    font-size: 30px;
+    left: 100px;
+}
+.para{
+    position: relative;
+    top: -260px;
+    font-size: 60px;
+    left: 100px;
+}
+.akash{
+    position: relative;
+    top: -210px;
+    left: 120px;
+    font-size: 20px;
+
+}
+.cost{
+    filter: brightness(0.2);
+    margin-left: 10px;
+}
+.shop-now{
+    position: relative;
+    top: -180px;
+    left: 120px;
+    background-color: red;
+    border-radius: 2px;
+    color: white;
+    text-align: center;
+
+}
+.center{
+    position: relative;
+    top: -100px;
+    text-align: center;
+    margin-left: -30px;
+    filter: brightness(0.2);
+    
+
+}
+.ramesh{
+    position: relative;
+    top: -100px;
+    color: red;
+    margin-left: -30px;
+}
+.suresh{
+    position: relative;
+    top: -100px;
+    margin-left: -30px;
+    filter: brightness(0.2);
+
+}
+.total{
+    position: relative;
+    text-align: center;
+    top: -200px;
+    font-size: 30px;
+    font-weight: 100;
+}
+.ramesh{
+    position: relative;
+    margin: left 100px ;
+    margin-left: -30px;
+
+}
+
+    
+
+.srinu{
+    position: relative;
+    top: -130px;
+    left: 720px;
+    
+}
+.figures{
+    position: relative;
+    margin-left: 2px;
+    height: 30px;
+    width: 30px;
+}
+.red{
+    height: 140px;
+    width: 140px;
+}
+.google{
+    filter: brightness(0.2);
+}
+.pravi{
+    position: relative;
+    left: 30px;
+}
+.choco{
+    position: relative;
+    filter: brightness(0.2);
+    left: 10px;
+}
+.blue{
+    position: relative;
+    height: 140px;
+    width: 140px;
+    top: -235px;
+    left: 380px;
+
+}
+.chrome{
+    position: relative;
+    filter: brightness(0.2);
+    top: -235px;
+    left: 380px;
+}
+.naveen{
+    position: relative;
+    left: 30px;
+    top: -215px;
+    left: 400px;
+}
+.biscuit{
+    position: relative;
+    filter: brightness(0.2);
+    left: 10px;
+}
+.opera{
+    position: relative;
+    filter: brightness(0.2);
+    top: -470px;
+    left: 690px;
+
+}
+.green{
+    position: relative;
+    height: 200px;
+    width: 220px;
+    top: -460px;
+    left: 690px;
+
+}
+.nagamani{
+    position: relative;
+    left: 30px;
+    top: -450px;
+    left: 740px;
+    
+    
+}
+.cone{
+    position: relative;
+    filter: brightness(0.2);
+    left: 10px;
+
+}
+.facebook{
+    position: relative;
+    filter: brightness(0.2);
+    top: -700px;
+    left: 1000px;
+
+}
+.pink{
+    position: relative;
+    height: 140px;
+    width: 140px;
+    top: -680px;
+    left: 1000px;
+
+}
+.ramoji{
+    position: relative;
+    left: 30px;
+    top: -650px;
+    left: 1000px;
+
+}
+.sweets{
+    position: relative;
+    filter: brightness(0.2);
+    left: 10px;
+
+}
+.youtube{
+    position: relative;
+    filter: brightness(0.2);
+    top: -860px;
+    left: 1250px;
+
+
+}
+.yellow{
+    position: relative;
+    height: 130px;
+    width: 130px;
+    top: -850px;
+    left: 1300px;
+
+}
+.paradesi{
+    position: relative;
+    top: -830px;
+    left: 1340px;
+
+}
+.banana{
+    position: relative;
+    filter: brightness(0.2);
+    left: 10px;
+
+}
+.animal{
+    position: relative;
+    text-align: center;
+    top: -740px;
+    left: 20px;
+    font-size: 30px;
+    font-weight: 100;
+}
+.dog{
+    position: relative;
+    color: red;
+    font-weight: 100;
+    margin-left: 60px;
+
+}
+.lion{
+    margin-left: -30px;
+    filter: brightness(0.2);
+}
+.monkey{
+    margin-left: -30px;
+    filter: brightness(0.2);
+}
+.parrot{
+    margin-left: -30px;
+    filter: brightness(0.2);
+}
+.donkey{
+    margin-left: -30px;
+    filter: brightness(0.2);
+}
+.bear{
+    margin-left: -30px;
+    filter: brightness(0.2);
+
+}
+.product{
+    position: relative;
+    top: -650px;
+    left: 750px;
+}
+.all{
+    position: relative;
+    top: -570px;
+    left:320px ;
+    margin-left: 120pxpx;
+    color: red;
+
+
+}
+.headphones{
+    position: relative;
+    top: -570px;
+    left:320px ;
+    margin-left: 120px;
+
+}
+.earbuds{
+    position: relative;
+    top: -570px;
+    left:320px ;
+    margin-left: 120px;
+
+}
+.earphones{
+    position: relative;
+    top: -570px;
+    left:320px ;
+    margin-left: 120px;
+
+}
+.neckbands{
+    position: relative;
+    top: -570px;
+    left:320px ;
+    margin-left: 120px;
+
+}
+.product-card{
+    background-color: black;
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 350px;
+    height: 600px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    text-align: center;
+    margin: 0;
+
+}
+.apple{
+    height: 250px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(16, 15, 15, 0.859);
+}
+.product-image{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    left: 40px;
+    
+}
+.product-details{
+    padding: 20px;
+}
+.rating{
+    position: relative;
+    color:red;
+    font-size: 16px;
+    margin-bottom: 10px;
+    top: 150px;
+    left: -200px;
+
+}
+.product-title{
+    position: relative;
+    font-size: 25px;
+    top:50px ;
+    left: -70px;
+    filter: brightness(0.8);
+   
+    
+}
+.product-description{ 
+    position: relative; 
+    font-size: 17px;
+    top: 50px;
+    left: -80px;
+    filter: brightness(0.4);
+
+    
+}
+.bright{
+    position: relative;
+    top: 30px;
+    left: -110px;
+    filter: brightness(0.4);
+
+
+}
+.horse{
+    position: relative;
+    top: 60px;
+    size: 2px;
+    
+}
+
+.price{
+    position: relative;
+    top: -170px;
+    left: -0.5px;
+    font-size: 40px;
+    margin: 10px ;
+    margin-bottom: 30px;
+    
+
+}
+.original-price{
+   
+    text-decoration: line-through;
+    color: #888;
+    font-size: 40px;
+    margin-left: 10px;
+
+
+}
+.add-to-cart{ 
+    position: relative;
+    top: -170px;
+    left: 15px;
+    background-color:red;
+    color: #fff;
+    border: none;
+    width: 300px;
+    height: 50px;
+    cursor: pointer;
+    font-size: 14px;
+
+}
+.add-to-cart:hover{
+    background-color: #e64a19;
+}
+.bharath{
+    position: relative;
+    top: -500px;
+    left: 20px;
+}
+
+
+
+
+
+.bangalore{
+    background-color: black;
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 350px;
+    height: 600px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    text-align: center;
+    margin: 0;
+
+}
+.vizag{
+    height: 250px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(16, 15, 15, 0.859);
+}
+.mysore{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    left: 40px;
+    
+}
+.rajupeta{
+    padding: 20px;
+}
+.kolkata{
+    position: relative;
+    color:red;
+    font-size: 16px;
+    margin-bottom: 10px;
+    top: 150px;
+    left: -200px;
+
+}
+.kanada{
+    position: relative;
+    font-size: 25px;
+    top:50px ;
+    left: -60px;
+    filter: brightness(0.8);
+   
+    
+}
+.kota{ 
+    position: relative; 
+    font-size: 17px;
+    top: 50px;
+    left: -50px;
+    filter: brightness(0.4);
+
+    
+}
+
+.chennai{
+    position: relative;
+    top: -170px;
+    left: -0.5px;
+    font-size: 40px;
+    margin: 10px ;
+    margin-bottom: 30px;
+    
+
+}
+.gudur{
+   
+    text-decoration: line-through;
+    color: #888;
+    font-size: 40px;
+    margin-left: 10px;
+
+
+}
+.makavara{ 
+    position: relative;
+    top: -170px;
+    left: 15px;
+    background-color:red;
+    color: #fff;
+    border: none;
+    width: 300px;
+    height: 50px;
+    cursor: pointer;
+    font-size: 14px;
+
+}
+.add-to-cart:hover{
+    background-color: #e64a19;
+}
+.hakesh{
+    position: relative;
+    top: -1250px;
+    left: 400px;
+}
+
+
+
+.insta{
+    position: relative;
+    font-size: 25px;
+    top:50px ;
+    left: -50px;
+    filter: brightness(0.8);
+}
+.twitter{ 
+    position: relative; 
+    font-size: 17px;
+    top: 50px;
+    left: -65px;
+    filter: brightness(0.4);
+}
+.prabhas{
+    position: relative;
+    top: -170px;
+    left: -0.5px;
+    font-size: 40px;
+    margin: 10px ;
+    margin-bottom: 30px;
+    
+
+}
+.alluarjun{
+   
+    text-decoration: line-through;
+    color: #888;
+    font-size: 40px;
+    margin-left: 10px;
+
+
+}
+.sujatha{
+    position: relative;
+    top: -2000px;
+    left: 770px;
+}
+
+
+
+
+
+.rashmika{
+    position: relative;
+    font-size: 25px;
+    top:50px ;
+    left: -40px;
+    filter: brightness(0.8);
+}
+.vijay{ 
+    position: relative; 
+    font-size: 17px;
+    top: 50px;
+    left: -55px;
+    filter: brightness(0.4);
+}
+
+.srilela{
+    position: relative;
+    top: -170px;
+    left: -0.5px;
+    font-size: 40px;
+    margin: 10px ;
+    margin-bottom: 30px;
+    
+
+}
+.maheshbabu{
+   
+    text-decoration: line-through;
+    color: #888;
+    font-size: 40px;
+    margin-left: 10px;
+
+
+}
+.nithin{
+    position: relative;
+    top: -2750px;
+    left: 1150px;
+}
+   
+
+
+
+
+
+
+
+.samsung{
+    position: relative;
+    font-size: 25px;
+    top:50px ;
+    left: -50px;
+    filter: brightness(0.8);
+}
+.onida{ 
+    position: relative; 
+    font-size: 17px;
+    top: 50px;
+    left: -45px;
+    filter: brightness(0.4);
+}
+.oneplus{
+    position: relative; 
+    font-size: 17px;
+    top: 30px;
+    left: -100px;
+    filter: brightness(0.4);
+
+}
+
+.nagesh{
+    position: relative;
+    top: -170px;
+    left: -0.5px;
+    font-size: 40px;
+    margin: 10px ;
+    margin-bottom: 30px;
+    
+
+}
+.sanjay{
+   
+    text-decoration: line-through;
+    color: #888;
+    font-size: 40px;
+    margin-left: 10px;
+
+
+}
+.lg{
+    position: relative;
+    top: -2880px;
+    left: 20px;
+}
+
+
+
+
+
+
+
+
+.devara{
+    position: relative;
+    font-size: 25px;
+    top:50px ;
+    left: -50px;
+    filter: brightness(0.8);
+}
+.pushpa{ 
+    position: relative; 
+    font-size: 17px;
+    top: 50px;
+    left: -45px;
+    filter: brightness(0.4);
+}
+.luckybhaskar{
+    position: relative;
+    top: -170px;
+    left: -0.5px;
+    font-size: 40px;
+    margin: 10px ;
+    margin-bottom: 30px;
+    
+
+}
+.amaran{
+   
+    text-decoration: line-through;
+    color: #888;
+    font-size: 40px;
+    margin-left: 10px;
+
+
+}
+.kalki{
+    position: relative;
+    top: -3630px;
+    left: 400px;
+}
+
+
+
+
+
+
+.tillusquare{
+    position: relative;
+    font-size: 25px;
+    top:50px ;
+    left: -40px;
+    filter: brightness(0.8);
+}
+.ka{ 
+    position: relative; 
+    font-size: 17px;
+    top: 56px;
+    left: -75px;
+    filter: brightness(0.4);
+}
+
+.kanguva{
+    position: relative; 
+    font-size: 17px;
+    top: 40px;
+    left: -90px;
+    filter: brightness(0.4);
+
+}
+
+.buttabomma{
+    position: relative;
+    top: -170px;
+    left: -0.5px;
+    font-size: 40px;
+    margin: 10px ;
+    margin-bottom: 30px;
+    
+
+}
+.bhisma{
+   
+    text-decoration: line-through;
+    color: #888;
+    font-size: 40px;
+    margin-left: 10px;
+
+
+}
+.gunturkaram{
+    position: relative;
+    top: -4380px;
+    left: 770px;
+}
+
+
+
+
+
+
+
+.saindhav{
+    position: relative;
+    font-size: 25px;
+    top:50px ;
+    left: -40px;
+    filter: brightness(0.8);
+}
+.nasamiranga{ 
+    position: relative; 
+    font-size: 17px;
+    top: 56px;
+    left: -75px;
+    filter: brightness(0.4);
+}
+
+.premakatha{
+    position: relative; 
+    font-size: 17px;
+    top: 40px;
+    left: -90px;
+    filter: brightness(0.4);
+
+}
+.dheera{
+    position: relative;
+    top: -170px;
+    left: -0.5px;
+    font-size: 40px;
+    margin: 10px ;
+    margin-bottom: 30px;
+    
+
+}
+.gameon{
+   
+    text-decoration: line-through;
+    color: #888;
+    font-size: 40px;
+    margin-left: 10px;
+
+
+}
+.eagle{
+    position: relative;
+    top: -5128px;
+    left: 1150px;
+}
+
+
+
+
+
+
+
+.spirit{
+    position: relative;
+    font-size: 25px;
+    top:50px ;
+    left: -55px;
+    filter: brightness(0.8);
+}
+.rajasaab{ 
+    position: relative; 
+    font-size: 17px;
+    top: 56px;
+    left: -55px;
+    filter: brightness(0.4);
+}
+
+.pauji{
+    position: relative;
+    top: -170px;
+    left: -0.5px;
+    font-size: 40px;
+    margin: 10px ;
+    margin-bottom: 30px;
+    
+
+}
+.chatrapati{
+   
+    text-decoration: line-through;
+    color: #888;
+    font-size: 40px;
+    margin-left: 10px;
+
+
+}
+
+.saaho{
+    position: relative;
+    top: -5250px;
+    left: 20px;
+}
+
+
+
+
+
+
+.gongotri{
+    position: relative;
+    font-size: 25px;
+    top:50px ;
+    left: -55px;
+    filter: brightness(0.8);
+}
+.happy{ 
+    position: relative; 
+    font-size: 17px;
+    top: 56px;
+    left: -55px;
+    filter: brightness(0.4);
+}
+.badrinath{
+    position: relative;
+    top: -170px;
+    left: -0.5px;
+    font-size: 40px;
+    margin: 10px ;
+    margin-bottom: 30px;
+    
+
+}
+.bunny{
+   
+    text-decoration: line-through;
+    color: #888;
+    font-size: 40px;
+    margin-left: 10px;
+
+
+}
+
+.julai{
+    position: relative;
+    top: -5998px;
+    left: 400px;
+}
+
+
+
+
+
+
+.ramayya{
+    position: relative;
+    font-size: 25px;
+    top:50px ;
+    left: -55px;
+    filter: brightness(0.8);
+}
+.attarintiki{ 
+    position: relative; 
+    font-size: 17px;
+    top: 56px;
+    left: -55px;
+    filter: brightness(0.4);
+}
+
+.bullodu{
+    position: relative; 
+    font-size: 17px;
+    top: 40px;
+    left: -90px;
+    filter: brightness(0.4);
+
+}
+
+.jai{
+    position: relative;
+    top: -170px;
+    left: -0.5px;
+    font-size: 40px;
+    margin: 10px ;
+    margin-bottom: 30px;
+    
+
+}
+.lava{
+   
+    text-decoration: line-through;
+    color: #888;
+    font-size: 40px;
+    margin-left: 10px;
+
+
+}
+
+.yamadonga{
+    position: relative;
+    top: -6746px;
+    left: 770px;
+}
+
+
+.brucele{
+    position: relative;
+    top: -7496px;
+    left: 1150px;
+}
+.chitrannam{
+    background-color: black;
+}
+.cetaphil{
+    position: relative;
+    font-size: 35px;
+    top: 200px;
+    
+}
+
+.himalaya{
+    position: relative;
+    font-size: 35px;
+    top:180px ;
+    left: 15px;
+}
+
+
+
+
+
+
+
+
+
+.advantages{
+    position: relative;
+    top:-7300px;
+    left: 700px;
+    color: whitesmoke;
+    filter: brightness(5);
+}
+
+.myjio{
+    position: relative;
+    font-size: 40px;
+    color: red;
+    top: -7170px;
+    left: 20px;
+}
+
+.og{
+    position: relative;
+    font-size: 20px;
+    top: -7230px;
+    left: 90px;
+    filter: brightness(5);
+}
+.kushii{
+    position: relative;
+    font-size: 15px;
+    top: -7240px;
+    left: 95px;
+    filter: brightness(0.4);
+}
+
+.badsha{
+    position: relative;
+    font-size: 40px;
+    color: red;
+    top: -7315px;
+    left: 330px;
+}
+
+.kaidi{
+    position: relative;
+    font-size: 20px;
+    top: -7375px;
+    left: 420px;
+    filter: brightness(5);
+}
+.syra{
+    position: relative;
+    font-size: 15px;
+    top: -7385px;
+    left: 420px;
+    filter: brightness(0.4);
+}
+
+.trisha{
+    position: relative;
+    font-size: 40px;
+    color: red;
+    top: -7460px;
+    left: 750px;
+}
+
+.anushika{
+    position: relative;
+    font-size: 20px;
+    top: -7520px;
+    left: 850px;
+    filter: brightness(5);
+}
+.nayana{
+    position: relative;
+    font-size: 15px;
+    top: -7530px;
+    left: 850px;
+    filter: brightness(0.4);
+}
+
+
+.shradha{
+    position: relative;
+    font-size: 40px;
+    color: red;
+    top: -7600px;
+    left: 1180px;
+}
+
+.sunny{
+    position: relative;
+    font-size: 20px;
+    top: -7660px;
+    left: 1300px;
+    filter: brightness(5);
+}
+.disha{
+    position: relative;
+    font-size: 15px;
+    top: -7670px;
+    left: 1300px;
+    filter: brightness(0.4);
+}
+.geesthey{
+    position: relative;
+    background-color: black;
+    filter: brightness(50px);
+    height: 300px;
+    top:-7550px ;
+
+
+}
+.venkatesh{
+    position: relative;
+    top: 40px;
+}
+.Subscribe{
+    position: relative;
+    top: 40px;
+    filter: brightness(0.5);
+}
+.discount{
+    position: relative;
+    top:20px ;
+    filter: brightness(0.5);
+}
+.info{
+    filter: brightness(0.5);
+}
+.email{
+    position: relative;
+    filter: brightness(0.8);
+    background-color: black;
+    left: 5px;
+    border: 2px solid rgb(33, 32, 32);
+    
+}
+.buttons{
+    position: relative;
+    background-color: red;
+    color: #ffffff;
+    left: 5px;
+    top: -10px;
+    border: 2px solid rgb(45, 45, 45);
+
+}
+.return{
+    position: relative;
+    top: -210px;
+    left: 450px;
+    filter: brightness(0.5);
+}
+.help{
+    position: relative;
+    top: -200px;
+    left: 450px;
+    color: hwb(0 100% 0%);
+}
+
+.site{
+    position: relative;
+    top: -450px;
+    left: 800px;
+    filter: brightness(0.5);
+}
+.policies{
+    position: relative;
+    top: -440px;
+    left: 800px;
+    color: hwb(0 100% 0%);
+}
+
+.aboutus{
+    position: relative;
+    top: -689px;
+    left: 1200px;
+    filter: brightness(0.5);
+}
+.Company{
+    position: relative;
+    top: -685px;
+    left: 1200px;
+    color: hwb(0 100% 0%);
+}
+.hr{
+    position: relative;
+    top:-700px ;
+}
+.adarsa{
+    position: relative;
+    top:-710px ;
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.careerss{
+    position: relative;
+    top:-750px ;
+    left: 1280px;
+    font-size: 20px;
+}
+
+.apasara{
+    position: relative;
+    top:-750px ;
+    left: 1310px;
+    font-size: 20px;
+}
+.gram{
+    position: relative;
+    top:-750px ;
+    left: 1340px;
+    font-size: 20px;
+}
+
+.dinn{
+    position: relative;
+    top:-750px ;
+    left: 1375px;
+    font-size: 20px;
+
+
+}
+.deco{
+    text-decoration: none;
+    color: white;
+}
+
+.person{
+    font-size: 20px;
+    margin-top: 10px;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
+.drop-down{
+    position: absolute;
+    top: 50px;
+    left: -150px;
+    border: 2px solid;
+    border-radius: 2px;
+    padding: 15px;
+    width: 300px;
+    margin: 0;
+    z-index: 100;
+    display: none;
+}
+.log-sign{
+    font-size: 15px;
+    font-weight: 400;
+    color: gray;
+    border:2px solid;
+    width: 125px;
+    border-radius: 2px;
+    margin-top: -20px;
+}
+.account{
+    font-size: 15px;
+    font-weight: 500;
+    color: gray;
+    margin-top: -20px;
+    position: relative;
+    left: -10px;
+}
+.please{
+    background-color: red;
+    color: gray;
+    font-weight: 500;
+    padding: 2px;
+    width: 115px;
+    border-radius: 3px;
+    margin-top: -10px;
+}
+.drop-down a{
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+}
+.nav:hover .drop-down{
+    display: block;
+}
+
+
+
+
+    
+
